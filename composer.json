@@ -1,0 +1,11 @@
+{
+    "name": "artandflywork/kirby-editor-block-textimg",
+    "type": "kirby-plugin",
+    "authors": [
+        {
+            "name": "M.C. Brouwer",
+            "email": "matthijs@artandflywork.com"
+        }
+    ],
+    "require": {}
+}
