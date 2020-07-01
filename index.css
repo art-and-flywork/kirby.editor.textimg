@@ -1,0 +1,21 @@
+.textimg__split {
+  display: flex;
+  justify-content: space-between;
+}
+.textimg__split > * {
+  flex: 0 0 45%;
+}
+.textimg__split figure img {
+  max-width: 100%;
+}
+.textimg__split .k-editable,
+.textimg__split .k-editable .ProseMirror {
+  height: 100%;
+}
+.textimg__split .k-upload {
+  display: none;
+}
+
+.k-editor-textimg-block-wrapper {
+  padding-bottom: 0 !important;
+}
