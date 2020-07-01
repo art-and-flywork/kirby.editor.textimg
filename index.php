@@ -10,7 +10,7 @@
  * the HTML is rendered in the template. This can be used
  * for block types that are only visible in the backend.
  */
-Kirby::plugin('sanity/editor-block-textimg', [
+Kirby::plugin('artandflywork/editor-block-textimg', [
     'snippets' => [
         'editor/Textimg' => __DIR__ . '/snippets/textimg.php'
     ]
